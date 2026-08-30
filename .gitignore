@@ -5,3 +5,9 @@ output/*.db*
 *.pyc
 __pycache__/
 .env
+dagster-orchestration/
+example_dagster-orchestration/
+logs/
+meltano-ingestion/
+meltano-resale/
+resale_flat/
